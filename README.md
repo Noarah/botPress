@@ -1,1 +1,1 @@
-# to try just send "hi" in the box and press send
+to try just send "hi" in the box and press send
