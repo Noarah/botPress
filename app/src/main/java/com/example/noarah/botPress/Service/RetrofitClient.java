@@ -5,7 +5,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
-    public static final String BASE_URL = "http://a8b8ad23.ngrok.io/conversations/default/";
+    public static final String BASE_URL = "http://904f513f.ngrok.io/conversations/default/";
 
 
     public static Retrofit retrofit;
